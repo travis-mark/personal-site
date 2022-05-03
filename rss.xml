@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Travis Luckenbaugh's Personal Site</title>
+    <link>https://tl.neocities.org/</link>
+    <description></description>
+    <item>
+      <title>Rugged Maniac Prep Month</title>
+      <link>https://tl.neocities.org/rugged-maniac.html</link>
+      <guid>https://tl.neocities.org/rugged-maniac.html</guid>
+      <pubDate>2019-06-30</pubDate>
+      <description>Workout plan for Rugged Maniac</description>
+    </item>
+    <item>
+      <title>Step One</title>
+      <link>https://tl.neocities.org/step-one.html</link>
+      <guid>https://tl.neocities.org/step-one.html</guid>
+      <pubDate>2019-04-21</pubDate>
+      <description>Just getting started</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+
+/* Colors: http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines */
+
+* { background-color: #2e3436; } /* alum-6 */
+* { color: white; } 
+
+h1 { color: #fce94f; font-size: 1em; } /* butter-1 */
+h2 { color: #edd400; font-size: 1em; } /* butter-2 */
+    
+a { color: #729fcf } /* blue-1 */
+a:visited { color: #e090d7 } /* plum-1 */ 
+
+td { padding: 0 8px 0 0; }
